@@ -542,7 +542,7 @@
     /* position: relative; */
     width: 100%;
     /* background-color: #6246E5; */
-    background-image: url(/contact-background.png);
+    background-image: url(contact-background.png);
     z-index: -5;
     /* opacity: 0.2; */
     background-repeat: no-repeat;
