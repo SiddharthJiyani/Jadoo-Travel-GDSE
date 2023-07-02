@@ -108,6 +108,11 @@
 }
 
 @media(width <= 950px){
+
+    .bg{
+        margin-left: -800px ;
+        
+    }
     .nav-logo{
         /* margin-right: 19px; */
         margin-left: 0px;
